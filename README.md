@@ -12,7 +12,7 @@ The entity can then be placed with all the inherited properties, so you don't ha
 [![Latest Version](https://img.shields.io/github/tag/CelestialCartographers/Loenn.svg?label=version)][latest-release]
 [![License](https://img.shields.io/github/license/CelestialCartographers/loenn.svg)](LICENSE)
 
-(we're in `#map_making` on the "Mt. Celeste Climbing Association" Discord server)
+(the Loenn team is in `#map_making` on the "Mt. Celeste Climbing Association" Discord server)
 
 ---
 
