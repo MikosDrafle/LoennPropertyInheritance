@@ -1,4 +1,7 @@
-# Lönn
+# Lönn (Property Inheritance Fork)
+
+This fork adds an update that I think is required for convenience, particularly right-clicking with a selected entity/trigger to open up the properties window and freely edit the properties.
+The entity can then be placed with all the inherited properties, so you don't have to continue to the Selection tab and right click it, usually with annoying issues like entities obscuring what you just placed.
 
 [discord-map-making]: https://discord.gg/Wtjf4Pb "Join #map_making on the 'Mt. Celeste Climbing Association' Discord server"
 [ahorn]: https://github.com/CelestialCartographers/Ahorn "The Ahorn Map Editor"
